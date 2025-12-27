@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Asim  
+🎓 Computer Science student  
+💻 Web Developer | Frontend & Backend  
+⚡ Skilled in HTML, CSS, JavaScript, React, Next.js, MongoDB  
+
+🚀 I enjoy building real-world projects, learning new technologies, and improving my problem-solving skills.  
+📚 Currently exploring full-stack development and software engineering concepts.  
+
 
 <!--
 **masim04/masim04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
